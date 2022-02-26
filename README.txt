@@ -1,4 +1,4 @@
-Hello! Thank you for taking the time rereview my program!
+Hello! Thank you for taking the time review my program!
 
 Python version: 3.8.10
 
